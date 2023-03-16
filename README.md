@@ -1,0 +1,17 @@
+# CO2-production
+CO2 Production by Region
+
+Exploratory Data Analysis of Average CO2 per capita and CO2 produciton by Region
+
+This folder consists of 
+i)   Data - from which we do this analysis
+ii)  Image - our analysis of the data
+iii) Dashboard - Tableau dashborad where the analysis or dashborad is made
+
+From this analysis, we can see some key changes like: 
+
+1. East Asia and Pacific increased drastically on their carbon emission reaching the highest 
+of the region in 1997 and continuing to increase till around 13M in 2007
+
+2. Between the period of 1987 - 1997, Europe and Central Asia had the highest spike in data 
+from around 2.5M to 7.5M but it lowered and remained somewhat constant at between 6M and 7M
