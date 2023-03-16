@@ -4,9 +4,9 @@ CO2 Production by Region
 Exploratory Data Analysis of Average CO2 per capita and CO2 produciton by Region
 
 This folder consists of 
-i)   Data - from which we do this analysis
-ii)  Image - our analysis of the data
-iii) Dashboard - Tableau dashborad where the analysis or dashborad is made
+1. Data - from which we do this analysis
+2. Image - our analysis of the data
+3. Dashboard - Tableau dashborad where the analysis or dashborad is made
 
 ![alt text](https://github.com/NiroulaSunam/CO2-production/blob/main/Dashboard%201.png?raw=true)
 
