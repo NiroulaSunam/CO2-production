@@ -8,6 +8,8 @@ i)   Data - from which we do this analysis
 ii)  Image - our analysis of the data
 iii) Dashboard - Tableau dashborad where the analysis or dashborad is made
 
+![alt text](https://github.com/NiroulaSunam/CO2-production/blob/main/Dashboard%201.png?raw=true)
+
 From this analysis, we can see some key changes like: 
 
 1. East Asia and Pacific increased drastically on their carbon emission reaching the highest 
